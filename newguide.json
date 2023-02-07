@@ -4,12 +4,12 @@
       {
         "NetworkAds": "admob",
 
-        "banneradmb": "ca-app-pub-3940256099942544/6300978111",
-        "interadmob": "ca-app-pub-3940256099942544/1033173712",
-        "nativeadmob": "ca-app-pub-3940256099942544/2247696110",
+        "banneradmb": "",
+        "interadmob": "",
+        "nativeadmob": "",
 
-        "bannerfb": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "interfb": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "bannerfb": "",
+        "interfb": "",
         "nativefb": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
